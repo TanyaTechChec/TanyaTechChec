@@ -27,6 +27,7 @@
 ### Проекты в которых удалось принять участие:
 - [Яндекс.Метро](https://github.com/TanyaTechChec/-Yandex.Metro-/blob/f9f3b60c64e23021e0045610fb413c5414f2a732/README.md)
 - [Яндекс.Прилавок](https://github.com/TanyaTechChec/-Yandex.-/blob/65aeb3f0fd97104adbdd9dcff5773004c656a1f5/README.md)
-- [Командный проект. Роль тест-лида.](https://github.com/TanyaTechChec/-Team-project-/blob/772aa6c7c9eeb5d832b2a52d6f164f7184f3e44c/README.md) 
+- [Командный проект. Роль тест-лида.](https://github.com/TanyaTechChec/-Team-project-/blob/772aa6c7c9eeb5d832b2a52d6f164f7184f3e44c/README.md)
+- [Яндекс.Самокат](https://github.com/TanyaTechChec/Yandex_Diplom/blob/6e7b01d69bf01255e4c550bc976c17a67d4d12b7/README.md)
 
   
