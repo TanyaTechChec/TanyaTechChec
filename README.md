@@ -9,7 +9,7 @@
 - Принимать участие в создать интересные проекты, которыми можно гордиться.
 
 ### 📞 Контактная информация
-[![Gmail](https://img.shields.io/badge/Email-tastakhovafreel29%40gmail.com-red)](mailto:tastakhovafreel29@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-tastakhovafreel29%40gmail.com-red)](mailto:tastakhova27@mail.ru)
 [![Phone](https://img.shields.io/badge/Телефон-8%20995--880--39--19-brightgreen)](#)
 
 ### 📜 Пройденные курсы:
