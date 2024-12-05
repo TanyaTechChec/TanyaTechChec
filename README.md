@@ -9,7 +9,7 @@
 - Принимать участие в создать интересные проекты, которыми можно гордиться.
 
 ### 🌐 Социальные сети:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/@tasi_astax)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/89958803919)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:tastakhova27@mail.ru)
 
 ### 📜 Пройденные курсы:
