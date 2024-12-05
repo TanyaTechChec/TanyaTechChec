@@ -8,9 +8,9 @@
 - Углубить знания в тестирование и найти работу в IT.  
 - Принимать участие в создать интересные проекты, которыми можно гордиться.
 
-### 🌐 Социальные сети:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/+79958803919)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:tastakhova27@mail.ru)
+### 📞 Контактная информация
+[![Gmail](https://img.shields.io/badge/Email-tastakhovafreel29%40gmail.com-red)](mailto:tastakhovafreel29@gmail.com)
+[![Phone](https://img.shields.io/badge/Телефон-8%20995--880--39--19-brightgreen)](#)
 
 ### 📜 Пройденные курсы:
 - Яндекс.Практикум: Инженер по тестированию + [![Сертификат](https://img.shields.io/badge/Сертификат-green?style=for-the-badge)](https://drive.google.com/file/d/16U35u1N4hzjNJnvnaiNTQLHTGnfr14Nl/view?usp=sharing)  
