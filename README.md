@@ -26,5 +26,6 @@
 
 ### Проекты в которых удалось принять участие:
 - [Яндекс.Метро](https://github.com/TanyaTechChec/-Yandex.Metro-/blob/f9f3b60c64e23021e0045610fb413c5414f2a732/README.md)
+- [Яндекс.Прилавок](https://github.com/TanyaTechChec/-Yandex.-/blob/65aeb3f0fd97104adbdd9dcff5773004c656a1f5/README.md)
 
   
