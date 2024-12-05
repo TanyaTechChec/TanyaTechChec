@@ -23,6 +23,7 @@
 - 📄 **Базы данных:** MySQL [SQL.py](https://github.com/TanyaTechChec/Yandex_Diplom/blob/6e7b01d69bf01255e4c550bc976c17a67d4d12b7/SQL.py)  
 - 📱 **Мобильное тестирование:** Android Studio  
 - 🌐 **Веб-тестирование:** Browser DevTools
+- 🔍 **Charles** [Аэротаксти Яндекс.Такси](https://drive.google.com/drive/folders/11T-_mYdBPzgZ0XPZn_4UYC0K8p3yCMcc?usp=drive_link)
 ---
 ### Проекты в которых удалось принять участие:
 - [Яндекс.Метро](https://github.com/TanyaTechChec/-Yandex.Metro-/blob/f9f3b60c64e23021e0045610fb413c5414f2a732/README.md)
