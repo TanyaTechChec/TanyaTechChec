@@ -10,7 +10,7 @@
 
 ### 🌐 Социальные сети:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/+79958803919)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](tastakhova27@mail.ru)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:tastakhova27@mail.ru)
 
 ### 📜 Пройденные курсы:
 - Яндекс.Практикум: Инженер по тестированию + [![Сертификат](https://img.shields.io/badge/Сертификат-green?style=for-the-badge)](https://drive.google.com/file/d/16U35u1N4hzjNJnvnaiNTQLHTGnfr14Nl/view?usp=sharing)  
