@@ -37,4 +37,4 @@
 - [Яндекс.Самокат](https://github.com/TanyaTechChec/Yandex_Diplom/tree/b416d0b22928ec8ecb6646c2a6a8e6a0e5f5f483/tests)
 - [Поиск футера https://onli.digital/](https://github.com/TanyaTechChec/FooterTZONLY/blob/master/test_footer.py)
 ---
-### [Прочее](https://github.com/TanyaTechChec/Portfolio/blob/e5af964cf8519d09d4e79c806b34c5019e08c1b3/README.md)
+### [Техники тест дизайна, тестовая документация](https://github.com/TanyaTechChec/Portfolio/blob/e5af964cf8519d09d4e79c806b34c5019e08c1b3/README.md)
