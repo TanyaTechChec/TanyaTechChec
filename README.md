@@ -32,7 +32,8 @@
 - [Яндекс.Самокат](https://github.com/TanyaTechChec/Yandex_Diplom/blob/6e7b01d69bf01255e4c550bc976c17a67d4d12b7/README.md)
 - [Газпром-Медиа](https://github.com/TanyaTechChec/-GazpromMedia-/blob/f98d1ebb60300a35e4fe4f64d9c096e819cedec1/README.md)
 - [Only](https://github.com/TanyaTechChec/-ONLY-/blob/3a2d779916e90186e53aad66a63b6d85d7099041/README.md)
-- [Список покупок приложение IOS](https://github.com/TanyaTechChec/Shopping-List/blob/c0e47f5617968e386c32a2210aa9a10a6416c0e3/README.md) [![Благодарственное письмо](https://drive.google.com/file/d/1n61rGHtIr812JSXUaCwtz5tn0VZtHaDz/view?usp=sharing)]
+- [Список покупок приложение IOS](https://github.com/TanyaTechChec/Shopping-List/blob/c0e47f5617968e386c32a2210aa9a10a6416c0e3/README.md) [![Благодарственное письмо](https://drive.google.com/uc?id=1n61rGHtIr812JSXUaCwtz5tn0VZtHaDz)](https://drive.google.com/file/d/1n61rGHtIr812JSXUaCwtz5tn0VZtHaDz/view?usp=sharing)
+
 ---
 ### Автотест
 - [Яндекс.Самокат](https://github.com/TanyaTechChec/Yandex_Diplom/tree/b416d0b22928ec8ecb6646c2a6a8e6a0e5f5f483/tests)
