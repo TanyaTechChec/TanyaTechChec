@@ -27,8 +27,7 @@
 - 🐞 **Баг-трекинг:** Jira, YouTrack, Qase  
 - 🔌 **API-тестирование:** Postman  
 - 🛠️ **Документация и прототипы:** Notion, Figma, Miro, draw.io  
-- 📄 **Базы данных:** MySQL [SQL.py] [DBeaver] PostgreSQL
-(https://github.com/TanyaTechChec/Yandex_Diplom/blob/6e7b01d69bf01255e4c550bc976c17a67d4d12b7/SQL.py)  
+- 📄 **Базы данных:** MySQL [SQL.py] (https://github.com/TanyaTechChec/Yandex_Diplom/blob/6e7b01d69bf01255e4c550bc976c17a67d4d12b7/SQL.py)  
 - 📱 **Мобильное тестирование:** Android Studio  
 - 🌐 **Веб-тестирование:** Browser DevTools
 - 🔍 **Charles** [Аэротаксти Яндекс.Такси](https://drive.google.com/drive/folders/11T-_mYdBPzgZ0XPZn_4UYC0K8p3yCMcc?usp=drive_link)
